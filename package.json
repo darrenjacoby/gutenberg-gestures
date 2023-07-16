@@ -1,0 +1,27 @@
+{
+	"name": "gutenberg-gestures",
+	"version": "0.1.0",
+	"description": "An experimental project to make Gutenberg more expressive through gestures.",
+	"author": "Darren Jacoby",
+	"license": "GPL-2.0-or-later",
+	"main": "build/index.js",
+	"scripts": {
+		"build": "wp-scripts build",
+		"format": "wp-scripts format",
+		"lint:css": "wp-scripts lint-style",
+		"lint:js": "wp-scripts lint-js",
+		"fix:js": "wp-scripts lint-js --fix",
+		"packages-update": "wp-scripts packages-update",
+		"plugin-zip": "wp-scripts plugin-zip",
+		"start": "wp-scripts start"
+	},
+	"devDependencies": {
+		"@wordpress/babel-preset-default": "^7.21.0",
+		"@wordpress/scripts": "^26.8.0",
+		"eslint-plugin-prettier": "^5.0.0",
+		"prettier": "^3.0.0"
+	},
+	"dependencies": {
+		"@use-gesture/react": "^10.2.27"
+	}
+}
