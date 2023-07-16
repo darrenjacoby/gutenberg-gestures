@@ -2,7 +2,7 @@
 
 <br />
 
-An experimental project to make Gutenberg more expressive through gestures.
+An experimental project to make gutenberg more expressive through gestures.
 
 [View on WordPress.org](https://wordpress.org/plugins/gutenberg-gestures/)
 
@@ -59,4 +59,4 @@ $ composer require wpackagist-plugin/gutenberg-gestures
 
 ## Follow along
 
-[Follow along](https://twitter.com/withjacoby) for more experimental Gutenberg projects.
+[Follow along](https://twitter.com/withjacoby) for more experimental gutenberg projects.
