@@ -2,7 +2,7 @@ import { registerPlugin } from '@wordpress/plugins';
 import { useSelect } from '@wordpress/data';
 import { useEffect, useRef } from '@wordpress/element';
 import { usePinch, useDrag } from '@use-gesture/react';
-import { toggleInserter, toggleListView, toggleSidebar } from './utils/editor';
+import { toggleInserter, toggleListView, toggleSidebar } from './editor';
 import {
 	moveBlock,
 	removeBlock,
@@ -11,7 +11,7 @@ import {
 	duplicateParentBlock,
 	toggleBlockLock,
 	toggleBlockMode,
-} from './utils/block';
+} from './block';
 import { sensitivityPresets } from './config';
 
 /**
