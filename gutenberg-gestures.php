@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Gutenberg/gestures
+Plugin Name: Gutenberg/Gestures
 Plugin URI: https://github.com/darrenjacoby/gutenberg-gestures
 Description: An experimental project to make Gutenberg more expressive through gestures.
 Text Domain: gutenberg-gestures

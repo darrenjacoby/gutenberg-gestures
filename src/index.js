@@ -311,6 +311,8 @@ const GutenbergGestures = () => {
 	useDrag((state) => onDrag(state), { target: query.current });
 	document.addEventListener('gesturestart', (e) => e.preventDefault());
 	document.addEventListener('gesturechange', (e) => e.preventDefault());
+
+	return null;
 };
 
 registerPlugin('gutenberg-gestures', { render: GutenbergGestures });
