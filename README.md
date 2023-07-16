@@ -1,4 +1,4 @@
-# Gestures
+# g/gestures
 
 An experimental project to make Gutenberg more expressive through gestures.
 
