@@ -1,7 +1,5 @@
 <img src=".github/logo.svg?sanitize=true">
 
-<br />
-
 An experimental project to make gutenberg more expressive through gestures.
 
 [View on WordPress.org](https://wordpress.org/plugins/gutenberg-gestures/)
