@@ -1,8 +1,6 @@
 <img src=".github/logo.svg?sanitize=true">
 
-An experimental project to make gutenberg more expressive through gestures.
-
-[View on WordPress.org](https://wordpress.org/plugins/gutenberg-gestures/)
+An experimental Gutenberg-based project aimed at creating a more expressive authoring experience through gesture-based actions. To achieve this, drag velocity, duration, and distance are measured for intention, while ensuring that traditional block-based drag gestures remain intact.
 
 ## Installation
 
