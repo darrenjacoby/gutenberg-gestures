@@ -49,8 +49,8 @@ $ composer require wpackagist-plugin/gutenberg-gestures
 
 Action is limited to the left hand side of the editor.
 
-- **`→`** to open
-- **`←`** to close
+- **`→`** to open.
+- **`←`** to close.
   - If a block is selected, the drag action will require higher velocity.
 
 https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/c5937855-902d-44c0-87ee-2eddf4cb8f48
@@ -59,7 +59,7 @@ https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/c5937855-902d
 
 Action is limited to the left hand side of the editor, and when no block is selected.
 
-- **`cmd/→`** right to open
+- **`cmd/→`** right to open.
 
 https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/8fe4368b-3bf3-4358-9471-779cdd5d4770
 
@@ -67,22 +67,22 @@ https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/8fe4368b-3bf3
 
 Action is limited to the right hand side of the editor.
 
-- **`→`** to open
-- **`←`** to close
+- **`→`** to open.
+- **`←`** to close.
 
 https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/2392e7f1-0e1a-4153-bb71-4439e85f6e8c
 
 ## Selected Block
 
-### <span id="block-move-up">Block/Move Up</span>
+### <span id="block-move-up">Block/Move Down</span>
 
-- **`↑`** to move block up.
+- **`↓`** to move block down.
 
 https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/df4ee518-c67d-4bb3-8310-dd3715fc18ea
 
-### <span id="block-move-down">Block/Move Down</span>
+### <span id="block-move-down">Block/Move Up</span>
 
-- **`↓`** to move block down
+- - **`↑`** to move block up.
 
 - https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/4e9f80b3-e6d2-460b-82b3-0ba396a15aaf
 
