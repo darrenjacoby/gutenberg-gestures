@@ -1,20 +1,22 @@
 <br />
 <img src=".github/logo.svg?sanitize=true">
 <br />
-Gestures is an experimental Gutenberg project aimed at creating a more expressive and enjoyable authouring experience.
+Gestures is an experimental project aimed at creating a more expressive and enjoyable authouring experience within the WordPress Gutenberg editor.
 
 ## Installation
 
 [WP-CLI](http://wp-cli.org/)
 
 ```shell
-$ wp plugin install gutenberg-gestures --activate
+$ wp plugin install https://github.com/darrenjacoby/gutenberg-gestures/archive/master.zip --activate
 ```
+
+_Gestures has been submitted to the WordPress plugin directory for review, however at the time of writing there is a 60 day waiting list._
 
 [Composer](https://getcomposer.org/)
 
 ```shell
-$ composer require wpackagist-plugin/gutenberg-gestures
+$ composer require darrenjacoby/gutenberg-gestures
 ```
 
 #### Requirements
