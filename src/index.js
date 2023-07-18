@@ -104,45 +104,62 @@ const GutenbergGestures = () => {
 	 */
 	const onDrag = (state) => {
 		const {
-			intentional,
-			movement,
+			currentTarget,
 			dragging,
-			initial,
-			velocity,
 			elapsedTime,
+			initial,
+			intentional,
+			metaKey,
+			movement,
+			shiftKey,
+			target,
+			type,
+			velocity,
 		} = state;
-		const [initialX] = initial;
-		const [movementX, movementY] = movement;
-		const [velocityX, velocityY] = velocity;
+
+		if (type !== 'pointermove') {
+			return;
+		}
+
+		if (target?.classList?.contains('components-resizable-box__handle')) {
+			return;
+		}
 
 		if (!dragging || !intentional) {
 			return;
 		}
 
 		/**
+		 * State
+		 */
+		const [initialX] = initial;
+		const [movementX, movementY] = movement;
+		const [velocityX, velocityY] = velocity;
+
+		/**
 		 * Keys
 		 */
 		const keys = {
-			fnOnly: state.metaKey && state.shiftKey === false,
-			none: state.metaKey === false && state.shiftKey === false,
-			both: state.metaKey && state.shiftKey,
+			fnOnly: metaKey && shiftKey === false,
+			none: metaKey === false && shiftKey === false,
+			both: metaKey && shiftKey,
 		};
 
 		/**
 		 * Orientation
 		 */
 		const orientation = {
-			left: initialX <= state.currentTarget.offsetWidth / 2,
-			right: initialX > state.currentTarget.offsetWidth / 2,
+			left: initialX <= currentTarget.offsetWidth / 2,
+			right: initialX > currentTarget.offsetWidth / 2,
 		};
 
 		/**
 		 * Direction
 		 */
 		const direction = {
-			up: movementY < -100,
+			up: movementY < -50,
 			right: movementX > 50,
-			down: movementY > 100,
+			down: movementY > 50,
 			left: movementX < -50,
 		};
 
@@ -276,13 +293,13 @@ const GutenbergGestures = () => {
 		ifThen(
 			keys.fnOnly && direction.down,
 			() => duplicateBlock(blockId),
-			400
+			200
 		);
 
 		ifThen(
 			keys.both && direction.down,
 			() => duplicateParentBlock(blockId),
-			400
+			200
 		);
 
 		/**
