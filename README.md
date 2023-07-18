@@ -93,8 +93,8 @@ https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/f5690b4e-81ce
 
 The logic is as follows;
 
-- If the nested block is first in the group and is moved up, it moves the parent up.
-- If the nested block is last in the group and is moved down, it moves the parent down.
+- If the nested block is first in the group and is moved up, the parent block is moved up.
+- If the nested block is last in the group and is moved down, the parent block is moved down.
 
 Screencast demostrating this behaviour;
 
