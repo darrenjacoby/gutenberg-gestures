@@ -89,9 +89,9 @@ https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/0d3af6b2-bab4
 
 - **`↑`** to move block up.
 
-https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/f5690b4e-81ce-471e-903c-b1824f05d5cd
-
 _Supports nested blocks; if the selected block is nested and is the first item, the parent block will move up._
+
+https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/f5690b4e-81ce-471e-903c-b1824f05d5cd
 
 ### <span id="block-duplicate">Block/Duplicate</span>
 
