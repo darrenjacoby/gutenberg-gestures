@@ -89,9 +89,21 @@ https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/0d3af6b2-bab4
 
 https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/f5690b4e-81ce-471e-903c-b1824f05d5cd
 
+**Move up and down actions support nested blocks.**
+
+The logic is as follows;
+
+- If the nested block is first in the group and is moved up, it moves the parent up.
+- If the nested block is last in the group and is moved down, it moves the parent down.
+
+Screencast demostrating this behaviour;
+
+https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/168839a3-ab80-4c72-bca0-7e0e46e9d77c
+
 ### <span id="block-duplicate">Block/Duplicate</span>
 
 - **`cmd/↓`** to duplicate block.
+- **`cmd/shift/↓`** to duplicate the parent block of a selected block.
 
 For trackpads and touchscreens;
 
