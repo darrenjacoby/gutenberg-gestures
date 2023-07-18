@@ -53,7 +53,7 @@ Action is limited to the left hand side of the editor.
 - **`←`** to close
   - If a block is selected, the drag action will require higher velocity.
 
-![Editor/Toggle List View](.github/editor-list-view.mp4)
+https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/c5937855-902d-44c0-87ee-2eddf4cb8f48
 
 ### <span id="editor-inserter">Editor/Toggle Inserter</span>
 
