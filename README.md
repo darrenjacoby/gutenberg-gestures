@@ -51,13 +51,12 @@ Action is limited to the left hand side of the editor.
 
 - **`→`** to open.
 - **`←`** to close.
-  - If a block is selected, the drag action will require higher velocity.
 
 https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/c5937855-902d-44c0-87ee-2eddf4cb8f48
 
 ### <span id="editor-inserter">Editor/Toggle Inserter</span>
 
-Action is limited to the left hand side of the editor, and when no block is selected.
+Action is limited to the left hand side of the editor. No block must be selected.
 
 - **`cmd/→`** right to open.
 
