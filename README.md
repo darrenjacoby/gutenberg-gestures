@@ -84,7 +84,7 @@ https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/df4ee518-c67d
 
 - - **`↑`** to move block up.
 
-- https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/4e9f80b3-e6d2-460b-82b3-0ba396a15aaf
+https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/4e9f80b3-e6d2-460b-82b3-0ba396a15aaf
 
 ### <span id="block-duplicate">Block/Duplicate</span>
 
