@@ -3,6 +3,8 @@
 <br />
 Gestures is an experimental project aimed at creating a more expressive and enjoyable authouring experience within the WordPress Gutenberg editor.
 
+_Please note, this is an expirement and still in early stages of development, if used in production, do so with caution._
+
 ## Installation
 
 [WP-CLI](http://wp-cli.org/)
@@ -53,7 +55,7 @@ Action is limited to the left hand side of the editor.
 - **`→`** to open.
 - **`←`** to close.
 
-https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/c5937855-902d-44c0-87ee-2eddf4cb8f48
+https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/996b63b4-da5a-46f8-99af-30be21020e6f
 
 ### <span id="editor-inserter">Editor/Toggle Inserter</span>
 
@@ -61,7 +63,7 @@ Action is limited to the left hand side of the editor. No block must be selected
 
 - **`cmd/→`** right to open.
 
-https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/8fe4368b-3bf3-4358-9471-779cdd5d4770
+https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/d9113528-613d-44af-a464-a09e12449c06
 
 ### <span id="editor-sidebar">Editor/Toggle Sidebar</span>
 
@@ -70,7 +72,7 @@ Action is limited to the right hand side of the editor.
 - **`→`** to open.
 - **`←`** to close.
 
-https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/2392e7f1-0e1a-4153-bb71-4439e85f6e8c
+https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/909e1281-6823-4117-9bf8-d99a858dd025
 
 ## Block
 
@@ -78,13 +80,13 @@ https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/2392e7f1-0e1a
 
 - **`↓`** to move block down.
 
-https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/df4ee518-c67d-4bb3-8310-dd3715fc18ea
+https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/0d3af6b2-bab4-4888-b346-0f009b967d82
 
 ### <span id="block-move-down">Block/Move Up</span>
 
 - - **`↑`** to move block up.
 
-https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/4e9f80b3-e6d2-460b-82b3-0ba396a15aaf
+https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/f5690b4e-81ce-471e-903c-b1824f05d5cd
 
 ### <span id="block-duplicate">Block/Duplicate</span>
 
@@ -94,7 +96,7 @@ For trackpads and touchscreens;
 
 - **`pinch/outwards`** to duplicate a block.
 
-https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/dfdd1e76-666e-49ee-99f2-bc9badde3c40
+https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/0f246202-2967-4efd-b201-d2e86ca1fd2b
 
 ### <span id="block-delete">Block/Delete</span>
 
@@ -103,31 +105,31 @@ https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/dfdd1e76-666e
 For trackpads and touchscreens;
 - **`pinch/inwards`** to delete a block.
 
-https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/3d3ecbcb-350b-4b40-aa28-e337f113fa6a
+https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/299f9cbf-fe16-46a5-8655-652d3e525be2
 
 ### <span id="block-insert-before">Block/Insert Before</span>
 
 - **`cmd/←`** to insert a new block before the selected block.
 
-https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/19e61010-0b65-4c57-bc44-cea42750c080
+https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/1719a0bb-f8fd-450c-b654-d92a80baf75c
 
 ### <span id="block-insert-after">Block/Insert After</span>
 
 - **`cmd/→`** to insert a new block before the selected block.
 
-https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/a14930af-4777-4bf4-ae73-6ff53c7c2637
+https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/1851bf15-bb31-4ece-bca2-b4915fa0b19d
 
 ### <span id="block-lock">Block/Lock</span>
 
 - **`cmd/shift/←`** to lock the selected block.
 
-https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/8ef789f1-406f-47ad-ae48-b06715035856
+https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/3674a5dd-92a4-4c64-aabe-8355fcc3686a
 
 ### <span id="block-edit-as-html">Block/Edit as HTML</span>
 
 - **`cmd/shift/→`** to edit the selected block as HTML.
 
-https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/c676eb22-a1ea-4133-add0-3b0dc191d3c6
+https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/27164e4a-be21-4b01-bcb7-97959fec43c5
 
 ## Follow along
 
