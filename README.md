@@ -49,8 +49,8 @@ $ composer require wpackagist-plugin/gutenberg-gestures
 
 Action is limited to the left hand side of the editor.
 
-- **`->`** to open
-- **`<-`** to close
+- **`→`** to open
+- **`←`** to close
   - If a block is selected, the drag action will require higher velocity.
 
 ![Editor/Toggle List View](.github/editor-list-view.mp4)
@@ -59,7 +59,7 @@ Action is limited to the left hand side of the editor.
 
 Action is limited to the left hand side of the editor, and when no block is selected.
 
-- **`cmd/->`** right to open
+- **`cmd/→`** right to open
 
 ![Editor/Toggle Inserter](.github/editor-inserter.mp4)
 
@@ -67,8 +67,8 @@ Action is limited to the left hand side of the editor, and when no block is sele
 
 Action is limited to the right hand side of the editor.
 
-- **`->`** to open
-- **`<-`** to close
+- **`→`** to open
+- **`←`** to close
 
 ![Editor/Toggle Sidebar](.github/editor-sidebar.mp4)
 
@@ -107,24 +107,24 @@ For trackpads and touchscreens;
 
 ### <span id="block-insert-before">Block/Insert Before</span>
 
-- **`cmd/<-`** to insert a new block before the selected block.
+- **`cmd/←`** to insert a new block before the selected block.
 
 ![Block/Insert Before](.github/block-insert-before.mp4)
 
 ### <span id="block-insert-after">Block/Insert After</span>
 
-- **`cmd/->`** to insert a new block before the selected block.
+- **`cmd/→`** to insert a new block before the selected block.
 
 ![Block/Insert After](.github/block-insert-after.mp4)
 
 ### <span id="block-lock">Block/Lock</span>
 
-- **`cmd/shift/<-`** to lock the selected block.
+- **`cmd/shift/←`** to lock the selected block.
 
 ![Block/Lock](.github/block-lock.mp4)
 ### <span id="block-edit-as-html">Block/Edit as HTML</span>
 
-- **`cmd/shift/->`** to edit the selected block as HTML.
+- **`cmd/shift/→`** to edit the selected block as HTML.
 
 ![Block/Edit as HTML](.github/block-edit-as-html.mp4)
 
