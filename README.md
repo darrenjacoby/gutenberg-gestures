@@ -72,7 +72,7 @@ Action is limited to the right hand side of the editor.
 
 https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/2392e7f1-0e1a-4153-bb71-4439e85f6e8c
 
-## Selected Block
+## Block
 
 ### <span id="block-move-up">Block/Move Down</span>
 
