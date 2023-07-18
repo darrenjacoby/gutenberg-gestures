@@ -146,4 +146,4 @@ https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/27164e4a-be21
 
 ## Follow along
 
-[Follow along](https://twitter.com/withjacoby) for more experimental Gutenberg projects.
+[Follow along](https://twitter.com/withjacoby) for more WordPress Gutenberg experiments.
