@@ -1,0 +1,24 @@
+{
+	"name": "darrenjacoby/gutenberg-gestures",
+	"type": "wordpress-plugin",
+	"license": "MIT",
+	"description": "WordPress Gutenberg gesture-based actions for a more expressive editorial experience.",
+	"homepage": "https://github.com/darrenjacoby/gutenberg-gestures",
+	"authors": [
+		{
+			"name": "Darren Jacoby",
+			"email": "darren@jacoby.dev",
+			"homepage": "https://twitter.com/withjacoby"
+		}
+	],
+	"keywords": [
+		"wordpress",
+		"gutenberg"
+	],
+	"support": {
+		"issues": "https://github.com/darrenjacoby/gutenberg-gestures/issues"
+	},
+	"require": {
+		"php": ">=7.4.0"
+	}
+}
