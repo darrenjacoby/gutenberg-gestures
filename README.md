@@ -1,8 +1,8 @@
 <img src=".github/logo.svg?sanitize=true">
 
-Gutenberg gestures is an experimental project aimed at creating a more expressive authoring experience through new gesture-based actions.
+Gutenberg gesture-based actions is an experimental project aimed at creating a more expressive and faster authoring experience.
 
-Each new gesture is measured for drag velocity, duration and distance to understand intention and ensure that traditional block-based drag gestures remain intact. 
+Each new gesture-based action is measured for drag velocity, duration and distance to understand intention and ensure that traditional block-based drag gestures remain intact. 
 
 ## Installation
 
