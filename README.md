@@ -76,15 +76,15 @@ https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/2392e7f1-0e1a
 
 ### <span id="block-move-up">Block/Move Up</span>
 
-- **`↓`** to move block down
-
-https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/4e9f80b3-e6d2-460b-82b3-0ba396a15aaf
-
-### <span id="block-move-down">Block/Move Down</span>
-
 - **`↑`** to move block up.
 
 https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/df4ee518-c67d-4bb3-8310-dd3715fc18ea
+
+### <span id="block-move-down">Block/Move Down</span>
+
+- **`↓`** to move block down
+
+- https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/4e9f80b3-e6d2-460b-82b3-0ba396a15aaf
 
 ### <span id="block-duplicate">Block/Duplicate</span>
 
