@@ -3,7 +3,8 @@
 <br />
 Gestures is an experimental project aimed at creating a more expressive and enjoyable authouring experience within the WordPress Gutenberg editor.
 <br /><br />
-_Please note, this is an expirement and still in early stages of development, if used in production, do so with caution._
+
+_Please note, this is an expirement and still in early stages of development, proceed with caution._
 
 ## Installation
 
