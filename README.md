@@ -85,18 +85,16 @@ https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/0d3af6b2-bab4
 
 ### <span id="block-move-down">Block/Move Up</span>
 
-- - **`↑`** to move block up.
+- **`↑`** to move block up.
 
 https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/f5690b4e-81ce-471e-903c-b1824f05d5cd
 
 **Move up and down actions support nested blocks.**
 
-The logic is as follows;
+In order to make nested blocks intuitive, if the selected block is nested and is;
 
-- If the nested block is first in the group and is moved up, the parent block is moved up.
-- If the nested block is last in the group and is moved down, the parent block is moved down.
-
-Screencast demostrating this behaviour;
+- First in the group and moved up, the parent block moves up.
+- Last in the group and moved down, the parent block moves down.
 
 https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/168839a3-ab80-4c72-bca0-7e0e46e9d77c
 
