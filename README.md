@@ -1,4 +1,6 @@
-<img style="margin: 20px;" src=".github/logo.svg?sanitize=true">
+<div style="padding: 20px;">
+<img src=".github/logo.svg?sanitize=true">
+</div>
 
 Gutenberg gesture-based actions is an experimental project aimed at creating a more expressive and faster authoring experience.
 
