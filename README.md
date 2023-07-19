@@ -139,4 +139,4 @@ https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/27164e4a-be21
 
 ## Follow along
 
-[Follow along](https://twitter.com/withjacoby) for more Gutenberg experiments.
+[Follow along](https://twitter.com/withjacoby) for more block editor experiments.
