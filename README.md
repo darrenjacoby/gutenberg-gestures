@@ -1,7 +1,7 @@
 <br />
 <img src=".github/logo.svg?sanitize=true">
 <br />
-Bringing gesture-based actions to Gutenberg for a faster authoring experience.
+Bringing gesture-based actions to the block editor for a faster authoring experience.
 <br /><br />
 
 _Please note, this is a pre-release and requires more testing before a stable release._
