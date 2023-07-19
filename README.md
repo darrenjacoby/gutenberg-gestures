@@ -70,8 +70,8 @@ https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/d9113528-613d
 
 Action is limited to the right hand side of the editor.
 
-- **`→`** to open.
-- **`←`** to close.
+- **`←`** to open.
+- **`→`** to close.
 
 https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/909e1281-6823-4117-9bf8-d99a858dd025
 
