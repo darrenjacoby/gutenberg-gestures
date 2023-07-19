@@ -14,7 +14,7 @@ _Please note, this is a pre-release and requires more testing before a stable re
 $ wp plugin install https://github.com/darrenjacoby/gutenberg-gestures/archive/master.zip --activate
 ```
 
-_Gestures has been submitted to the WordPress plugin directory for review, however at the time of writing there is a 60 day waiting list._
+_Gestures has been submitted to the WordPress plugin directory for review, however at the time of writing there is a 60 day waiting period._
 
 [Composer](https://getcomposer.org/)
 
