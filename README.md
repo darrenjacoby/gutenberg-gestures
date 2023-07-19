@@ -1,4 +1,4 @@
-# gestures 
+# g/gestures 
 
 Bringing gesture-based actions to the block editor for a faster authoring experience.
 <br /><br />
