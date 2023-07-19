@@ -1,6 +1,5 @@
-<br />
-<img src=".github/logo.svg?sanitize=true">
-<br />
+# gestures 
+
 Bringing gesture-based actions to the block editor for a faster authoring experience.
 <br /><br />
 
