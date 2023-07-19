@@ -1,10 +1,10 @@
 <br />
 <img src=".github/logo.svg?sanitize=true">
 <br />
-Gestures is an experimental project aimed at creating a more expressive and enjoyable authouring experience within the WordPress Gutenberg editor.
+Bringing gesture-based actions to Gutenberg for a faster authoring experience.
 <br /><br />
 
-_Please note, this is an expirement and still in early stages of development._
+_Please note, this is a pre-release and requires more testing before a stable release._
 
 ## Installation
 
@@ -139,4 +139,4 @@ https://github.com/darrenjacoby/gutenberg-gestures/assets/15921694/27164e4a-be21
 
 ## Follow along
 
-[Follow along](https://twitter.com/withjacoby) for more WordPress Gutenberg experiments.
+[Follow along](https://twitter.com/withjacoby) for more Gutenberg experiments.
