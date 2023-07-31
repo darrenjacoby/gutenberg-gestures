@@ -1,9 +1,6 @@
 # g/gestures 
 
 Bringing gesture-based actions to the block editor for a faster authoring experience.
-<br /><br />
-
-_Please note, this is a pre-release and requires more testing before a stable release. Contributions and PRs welcome._
 
 ## Installation
 
